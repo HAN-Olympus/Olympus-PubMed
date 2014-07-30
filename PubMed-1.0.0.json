@@ -1,1 +1,1 @@
-{"files": ["/lib/Article.py", "/modules/acquisition/PubMed.py", "/lib/PubMedIndex.py", "/core/massacquisition/PubMedConnections.py"], "version": "1.0.0", "name": "PubMed", "module": "PubMed", "author": "Stephan Heijl"}
+{"files": {"/modules/acquisition/PubMed.py": "/modules/acquisition/PubMed.py", "/core/massacquisition/PubMedConnections.py": "/core/massacquisition/PubMedConnections.py", "/lib/Article.py": "/lib/Article.py", "/lib/PubMedIndex.py": "/lib/PubMedIndex.py"}, "version": "1.0.0", "name": "PubMed", "module": "PubMed", "author": "Stephan Heijl"}
